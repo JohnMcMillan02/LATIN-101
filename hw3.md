@@ -1,3 +1,5 @@
+**+1 Needs revisions**
+
 AMO
 Imperfect Stem: ama
 Perfect active stem: amau
@@ -6,7 +8,7 @@ Perfect passive stem: amat
 Perfect active
 amauit
 Perfect passive
-Amati sunt
+Amati sunt❌
 Imperfect active
 amabat
 Imperfect passive
@@ -19,13 +21,13 @@ Perfect active stem: audiu
 Perfect passive stem: audit
 
 Perfect active 
-audiuit
+audiuit❌
 Perfect passive
 Auditi sunt
 Imperfect active
-audibat
+audibat❌
 Imperfect passive
-audibatur
+audibatur❌
 
 
 Capio (singular)
@@ -38,20 +40,20 @@ Cepit
 Perfect passive
 Captus est
 Imperfect active
-Capebat
+Capebat❌
 Imperfect passive
-Capebatur
+Capebatur❌
 
 
 
 Uenērunt
-Perfect active plural past indicative
+Perfect active plural past indicative❌
 interfectus est
-Perfect passive singular past indicative
+Perfect passive singular past indicative❌
 Faciebat
-Imperfect active singular past indicative
+Imperfect active singular past indicative❌
 Fugit
-Perfect active singular past inducative
+Perfect active singular past inducative❌
 Habebantur
-Imperfect passive singular past indicative
+Imperfect passive singular past indicative❌
  
