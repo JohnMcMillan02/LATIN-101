@@ -1,9 +1,9 @@
-
+**+1 Needs revisions**
 
 Singular
 
 Nominative
- Hic imprudenter filius 
+ Hic imprudenter filius ❌
 Genitive
  Huis imprudentis filii
 Dative
@@ -19,7 +19,7 @@ Plural
 Nominative
 Hi imprudentes filii
 Genitive
- Horum imprudentum filiorum
+ Horum imprudentum❌ filiorum
 Dative
 His imprudentibus filiis
 Accusative
@@ -38,22 +38,22 @@ nox, noctis f., “night”
 
 
 Cydippe sent the oxen into the fields.
-Ii agri
+Ii agri ❌
 They did not return with her sons.
-	Cum fillis se
+	Cum fillis se ❌
 At that time, the festival was due to begin.
-Hic tempora
+Hic tempora ❌
 Cydippe was not able to go to the festival.
-Sin posse ii
+Sin posse ii ❌
 Cleops and Bitias wanted to bring their mother to the festival.
-Uolitus tuli sibi
+Uolitus tuli sibi ❌
 They yoked themselves to a wagon.
-se
+se ✅
 They pulled the wagon for many hours.
-Multus horis
+Multus horis ❌
 When Cydippe was brought to the festival by her sons, all the onlookers were amazed.
-A se filii
+A se filii  ❌
 Cydippe asked the gods to grant to her and to her sons the best gift possible for mortals.
-Sibi et se filli
+Sibi et se ❌ filli
 That night, they fell asleep and never woke up.
-Hic nocter
+Hic nocter  ❌
