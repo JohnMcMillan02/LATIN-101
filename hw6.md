@@ -31,14 +31,14 @@ Latona cantio Niobe , Niobe ne audiui ❌
 Imperfect of moneo
 Non instead of ne 
 Audiuit
-Edit: Latona illum (feminine) monebat, Niobe non audiuit (feminine accussitive sing of is illa id)
+Edit: Latona illam monebat, Niobe non audiuit ille 
 
 Apollo, the son of the latter woman, killed the sons of the former woman.
 Interfecturent sunt filii prioris nominis ❌
 Use pronoun ille for women
 Subject: Apollo
 Direct object: the sons (accusative)
-Edit:  Apollo (hic) interfecit filios (ille), huius  
+Edit:  Apollo huius interfecit filios illius, huius  
 
 His sister Diana killed her daughters.
 Fraternea Dianae interfecturent filiae ❌
